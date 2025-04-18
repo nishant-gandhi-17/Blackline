@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "@sveltejs/adapter-auto": "^3.0.0",
     "svelte": "^3.59.2",
     "vite": "^5.0.10",
     "tailwindcss": "^3.3.2"
