@@ -9,6 +9,7 @@
   "devDependencies": {
     "@sveltejs/kit": "next",
     "svelte": "^3.59.2",
+    "vite": "^5.0.10",
     "tailwindcss": "^3.3.2"
   }
 }
